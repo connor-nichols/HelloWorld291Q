@@ -36,6 +36,7 @@
 		A2177F5927A31D6B00218D86 = {
 			isa = PBXGroup;
 			children = (
+				A2177F7327A31DB800218D86 /* README.md */,
 				A2177F6427A31D6B00218D86 /* HelloWorld */,
 				A2177F6327A31D6B00218D86 /* Products */,
 			);
@@ -56,7 +57,6 @@
 				A2177F6727A31D6B00218D86 /* ContentView.swift */,
 				A2177F6927A31D6D00218D86 /* Assets.xcassets */,
 				A2177F6B27A31D6D00218D86 /* Preview Content */,
-				A2177F7327A31DB800218D86 /* README.md */,
 			);
 			path = HelloWorld;
 			sourceTree = "<group>";
